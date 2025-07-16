@@ -9,7 +9,6 @@
 
 - **Portfolio**: [http://binpage.kr](http://binpage.kr)
 - **Email**: 6427d3010@gmail.com
-- **Phone**: 010-3358-7791
 - **Date of Birth**: 1999.07.09
 
 ---
